@@ -1,7 +1,3 @@
-//Team Members
-//Abhishek Rao - 1210425135
-//Guru Srikar Thopugunta - 1210354441
-
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <string.h>
