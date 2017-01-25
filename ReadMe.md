@@ -55,8 +55,8 @@ $ ./a.out n file1 file2 file2... filem
 ```
 
 n: number of clients; m: number of files to transfer (m can be >> n). Files named as file1_server, file2_server... would have been created.
-
-#Note that the number of concurrent transfers is set to 3 and can be changed by updating the #define MAX_CONCURRENT_TRANSFERS in file_test.c
+<br />
+Note that the number of concurrent transfers is set to 3 and can be changed by updating the macro MAX_CONCURRENT_TRANSFERS in file_test.c
 
 
 ### Copyright (in plain English):
