@@ -61,6 +61,6 @@ Note that the number of concurrent transfers is set to 3 and can be changed by u
 
 ### Copyright (in plain English):
 
- * Please **do not** use this for any of your academic projects/research. This repository is made public only for reference and to demonstrate my learnings out of it.
- * You are welcome to use this code for your personal projects, if you want to tweak/make improvements etc.
- * Respect other developer's in the community and their work.
+ * Absolutely no plagiarism, Please **do not** use this code as is for any of your academic projects/research. This repository is made public only for reference and to demonstrate my learnings out of it.
+ * You are welcome to **use this code** for your personal projects, if you want to tweak/make improvements etc.
+ * Respect other software developer's in the community and their work.
